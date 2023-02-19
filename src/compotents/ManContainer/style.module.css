@@ -1,0 +1,11 @@
+.man_list{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.emptyBlock{
+    border: 3px solid lightblue;
+    padding: 20px;
+    font-size: 22px;
+    text-align: center;
+}

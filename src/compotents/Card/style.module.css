@@ -1,0 +1,22 @@
+.card {
+  border: 1px solid black;
+  padding: 10px;
+  border-radius: 5px;
+}
+.info {
+  display: flex;
+  justify-content: space-around;
+  font-size: 18px;
+}
+.women{
+    background-color: rgb(250, 234, 237);
+    border: 1px solid black;
+    padding: 10px;
+    border-radius: 5px;
+}
+.men{
+    background-color: rgb(237, 247, 250); 
+    border: 1px solid black;
+    padding: 10px;
+    border-radius: 5px;
+}
