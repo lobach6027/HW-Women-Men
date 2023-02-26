@@ -8,15 +8,23 @@
   justify-content: space-around;
   font-size: 18px;
 }
-.women{
-    background-color: rgb(250, 234, 237);
-    border: 1px solid black;
-    padding: 10px;
-    border-radius: 5px;
+.women {
+  background-color: rgb(250, 234, 237);
+  border: 1px solid black;
+  padding: 10px;
+  border-radius: 5px;
+  position: relative;
 }
-.men{
-    background-color: rgb(237, 247, 250); 
-    border: 1px solid black;
-    padding: 10px;
-    border-radius: 5px;
+.men {
+  background-color: rgb(237, 247, 250);
+  border: 1px solid black;
+  padding: 10px;
+  border-radius: 5px;
+  position: relative;
+}
+.delButton {
+  position: absolute;
+  top: 5px;
+  right: 5px;
+  cursor: pointer;
 }

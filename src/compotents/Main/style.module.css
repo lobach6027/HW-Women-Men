@@ -23,3 +23,7 @@
   font-size: 22px;
   width: 50%;
 }
+.link:hover{
+  background-color: rgb(134, 179, 192);
+  cursor: pointer;
+}

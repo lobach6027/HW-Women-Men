@@ -9,8 +9,8 @@ export default function Header() {
       <nav>
         <span><Link  className={s.link} to = "/">Main</Link></span>
         <span><Link className={s.link} to = "/about">About</Link></span>
-        <span><Link className={s.link} to = "/our women">Our women</Link></span>
-        <span><Link className={s.link} to = "/our man">Our men</Link></span>
+        <span><Link className={s.link} to = "/ourwomen">Our women</Link></span>
+        <span><Link className={s.link} to = "/ourman">Our men</Link></span>
         <span><Link className={s.link} to = "/join">Join</Link></span>
       </nav>
     </header>
